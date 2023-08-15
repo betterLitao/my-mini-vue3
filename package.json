@@ -1,0 +1,22 @@
+{
+  "name": "my-mini-vue3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betterLitao/my-mini-vue3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betterLitao/my-mini-vue3/issues"
+  },
+  "homepage": "https://github.com/betterLitao/my-mini-vue3#readme",
+  "dependencies": {
+    "@vue/reactivity": "^3.2.38"
+  }
+}
